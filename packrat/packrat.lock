@@ -1,0 +1,14 @@
+PackratFormat: 1.4
+PackratVersion: 0.4.5
+RVersion: 3.2.2
+Repos: CRAN=https://cran.rstudio.com/
+
+Package: HMM
+Source: CRAN
+Version: 1.0
+Hash: 229439d39cd97bfb9bdb806a7929be33
+
+Package: packrat
+Source: CRAN
+Version: 0.4.5
+Hash: 0047c2d2471621b597871b37aaea8369
