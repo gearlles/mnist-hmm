@@ -8,6 +8,13 @@
     <artifactId>mnist-hmm-java</artifactId>
     <version>1.0</version>
 
+    <repositories>
+        <repository>
+            <id>jsi</id>
+            <url>http://repo.springsource.org/libs-release-remote</url>
+        </repository>
+    </repositories>
+
     <dependencies>
         <dependency>
             <groupId>be.ac.ulg.montefiore.run.jahmm</groupId>
