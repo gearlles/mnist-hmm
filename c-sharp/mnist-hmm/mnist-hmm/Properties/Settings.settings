@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="mnist_hmm.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TrainLabels" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\datasets\mnist\train-labels-idx1-ubyte</Value>
+    </Setting>
+    <Setting Name="TrainImages" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\datasets\mnist\train-images-idx3-ubyte</Value>
+    </Setting>
+    <Setting Name="TestLabels" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\datasets\mnist\t10k-labels-idx1-ubyte</Value>
+    </Setting>
+    <Setting Name="TestImages" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\datasets\mnist\t10k-images-idx3-ubyte</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
